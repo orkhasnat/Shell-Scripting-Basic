@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-
+# case/switch
 read -p "How old are you? : " age
 case $age in
     [0-4])
