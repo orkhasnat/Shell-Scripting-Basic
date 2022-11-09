@@ -1,0 +1,2 @@
+# Basic Shell Scripting Examples
+This repo contains basic shell scripting examples for quick reference and further use. The examples were collected from [Derek Banas' Shell Scripting Tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw).
